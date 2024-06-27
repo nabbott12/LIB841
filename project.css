@@ -1,0 +1,61 @@
+h1{
+color:grey;
+}
+
+body{
+	background-color:	yellow;
+	
+	font: normal 18px Century Gothic;
+	
+	line-height: 1.5em;
+	margin: .25em;
+	text-wrap: wrap;
+	
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+.container{
+	width:50%;
+	margin:0;
+	padding: 0px;
+}
+
+	
+	.box1 h1{
+		font-family: Arial;
+		font-style: italic;
+		text-decoration: underline;
+	}	
+	nav {
+            background-color: #333;
+        }
+        nav table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        nav td {
+            width: 25%; /* Ensure each cell takes an equal share of the table width */
+            text-align: center;
+            padding: 14px 0; 
+        }
+        nav a {
+            display: block;
+            color: white;
+            text-decoration: none;
+            padding: 14px 16px;
+        }
+        nav a:hover {
+            background-color: #111;
+        }
+	} table {
+	width: 400px;
+	
+		
+	}
+	table, th, td {
+	border: 1px solid, black
+	}
